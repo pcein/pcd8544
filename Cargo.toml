@@ -1,0 +1,7 @@
+[package]
+name = "pcd8544"
+version = "0.1.0"
+authors = ["Pramode <mail@pramode.in>"]
+
+[dependencies]
+embedded-hal = "0.1.0"
